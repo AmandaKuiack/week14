@@ -1,4 +1,8 @@
 body {
+    background-color: lightseagreen;
+    
+}
+.bg {
     background-color: tan;
 }
 
@@ -20,5 +24,5 @@ body {
         display: flex;
         justify-content:space-evenly;
     }
-    
+
 }
